@@ -1,6 +1,6 @@
 /* add CSS class and element and selectors here */
 
-body {
+.bayexampleclass {
   font-size: 300%;
      background-color: white;
      font-family: courier;
@@ -9,4 +9,4 @@ body {
      letter-spacing: 5px;
      transition: rotate(-30)deg;
      text-shadow: length
-     
+}
