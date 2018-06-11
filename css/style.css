@@ -1,11 +1,12 @@
 /* add CSS class and element and selectors here */
 
 body {
-  background-color: #F9C1FF;
-  font-size: 100%;
-}
-
-.bayexampleclass
-
-font-size: 300%;
-font-size: 300%;
+  font-size: 300%;
+     background-color: white;
+     font-family: courier;
+     border: 1px dotted red;
+     text-transform: uppercase;
+     letter-spacing: 5px;
+     transition: rotate(-30)deg;
+     text-shadow: length
+     
